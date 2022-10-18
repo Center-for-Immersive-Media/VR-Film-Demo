@@ -1,1 +1,1 @@
-# threejs-pwa-vr
+# VR Film Demo
